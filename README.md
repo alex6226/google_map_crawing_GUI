@@ -11,11 +11,22 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44692570/150670279-69eea8fc-2047-47dc-babd-7c27fccbc990.png" width="220" height="400"/> 
   <img src="https://user-images.githubusercontent.com/44692570/150670337-11eb20da-810d-464b-92a4-5b51821f563c.png" width="700" height="400"/>
-</p>
+</p><br>
+
 ## (二) 選取要爬取的店家
-在今過第一次的輸入後，返回相關店家清單
+在經過第一次的輸入後，返回相關店家清單
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44692570/150670631-b69883a9-69f5-4c85-8ffc-e1b61a8272c5.png" width="220" height="400"/> 
   <img src="https://user-images.githubusercontent.com/44692570/150670649-93ccebc3-0b18-4d88-9042-76d48deaaaef.png" width="700" height="400"/>
-</p>
- 
+</p><br>
+
+## (三) 資料匯出
+從清單中選取要爬取的店家，等待約1分鐘(是店家評論多寡決定)，在畫片顯示資料爬取完成後，可至資料夾查看資料
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44692570/150670781-2c33677c-b0fc-4c57-9b5b-df181fb80aae.png" width="220" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/44692570/150670835-8aec2952-b09f-41d0-ab13-6ccb8b205c5e.png" width="700" height="400"/>
+</p><br>
+
+## 爬取資料欄位介紹
+ ![image](https://user-images.githubusercontent.com/44692570/150671143-4dd8cec4-ca0c-47de-ac21-97d55ce93cdc.png)
+
