@@ -6,4 +6,9 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
 1. 輸入要爬取的店家的關鍵字<br>
 2. 選取要爬取的店家<br>
 3. 資料匯出<br>
-
+## (一) 輸入要爬取的店家的關鍵字
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44692570/150669993-f20f41a9-09fa-4abc-8c75-eec0892641de.png" width="100" height="200"/> 
+  <img src="https://user-images.githubusercontent.com/44692570/150670166-18bdfdf7-b669-4ffd-875e-87c10d3141b2.png" width="100" height="200"/>
+</p>
+ 
