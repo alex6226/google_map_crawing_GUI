@@ -34,8 +34,8 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
 
 - <b>評論者：</b>評論者的google帳戶名稱<br>
 - <b>評論者id：</b>評論者的googleid<br>
-- <b>評論者狀態：</b>評論者的評論次數及狀態<br>
-- <b>評論者等級：</b>評論者的等級，詳情請看https://support.google.com/local-guides/answer/6225851?hl=zh-Hant<br>
+- <b>評論者狀態：</b>評論者的評論次數及狀態<br> 
+- <b>評論者等級：</b>評論者的等級，詳情請看[這裡](https://support.google.com/local-guides/answer/6225851?hl=zh-Hant)<br>
 - <b>留言時間：</b>評論者的留言時間，依據抓取資料的時間來看<br>
 - <b>留言日期：</b>評論者的留言日期<br>
 - <b>評論：</b>評論內容<br>
