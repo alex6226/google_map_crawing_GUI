@@ -10,7 +10,7 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
 由於可能存在同名的店家，或是店家擁有許多分店，因此第一次的輸入無法確定使用者想要爬取的店家
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44692570/150670279-69eea8fc-2047-47dc-babd-7c27fccbc990.png" width="220" height="400"/> 
-  <img src="https://user-images.githubusercontent.com/44692570/150670337-11eb20da-810d-464b-92a4-5b51821f563c.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/44692570/150670337-11eb20da-810d-464b-92a4-5b51821f563c.png" width="700" height="400"/>
 </p><br>
 
 ## (二) 選取要爬取的店家
