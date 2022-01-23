@@ -21,12 +21,22 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
 </p><br>
 
 ## (三) 資料匯出
-從清單中選取要爬取的店家，等待約1分鐘(是店家評論多寡決定)，在畫片顯示資料爬取完成後，可至資料夾查看資料
+從清單中選取要爬取的店家，等待約1分鐘(視店家評論多寡決定)，在畫片顯示資料爬取完成後，可至資料夾查看資料
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44692570/150670781-2c33677c-b0fc-4c57-9b5b-df181fb80aae.png" width="220" height="400"/> 
   <img src="https://user-images.githubusercontent.com/44692570/150670835-8aec2952-b09f-41d0-ab13-6ccb8b205c5e.png" width="700" height="400"/>
 </p><br>
 
 ## 爬取資料欄位介紹
- ![image](https://user-images.githubusercontent.com/44692570/150671143-4dd8cec4-ca0c-47de-ac21-97d55ce93cdc.png)
+<p float="left">
+   <img src="https://user-images.githubusercontent.com/44692570/150671143-4dd8cec4-ca0c-47de-ac21-97d55ce93cdc.png" width="600" height="300"/>
+</p><br>
 
+- <b>評論者<b><br>
+- <b>評論者id<b><br>
+- <b>評論者狀態<b><br>
+- <b>評論者等級<b><br>
+- <b>留言時間<b><br>
+- <b>留言日期<b><br>
+- <b>評論<b><br>
+- <b>評論分數<b><br>
