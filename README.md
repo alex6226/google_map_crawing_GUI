@@ -7,8 +7,15 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
 2. 選取要爬取的店家<br>
 3. 資料匯出<br>
 ## (一) 輸入要爬取的店家的關鍵字
+由於可能存在同名的店家，或是店家擁有許多分店，因此第一次的輸入無法確定使用者想要爬取的店家
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44692570/150669993-f20f41a9-09fa-4abc-8c75-eec0892641de.png" width="100" height="200"/> 
-  <img src="https://user-images.githubusercontent.com/44692570/150670166-18bdfdf7-b669-4ffd-875e-87c10d3141b2.png" width="100" height="200"/>
+  <img src="https://user-images.githubusercontent.com/44692570/150670279-69eea8fc-2047-47dc-babd-7c27fccbc990.png" width="220" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/44692570/150670337-11eb20da-810d-464b-92a4-5b51821f563c.png" width="700" height="400"/>
+</p>
+## (二) 選取要爬取的店家
+在今過第一次的輸入後，返回相關店家清單
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44692570/150670631-b69883a9-69f5-4c85-8ffc-e1b61a8272c5.png" width="220" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/44692570/150670649-93ccebc3-0b18-4d88-9042-76d48deaaaef.png" width="700" height="400"/>
 </p>
  
