@@ -32,11 +32,11 @@ Google評論相對於其他部落格，擁有較高的可信度，不少人在�
    <img src="https://user-images.githubusercontent.com/44692570/150671143-4dd8cec4-ca0c-47de-ac21-97d55ce93cdc.png" width="600" height="300"/>
 </p><br>
 
-- <b>評論者<b><br>
-- <b>評論者id<b><br>
-- <b>評論者狀態<b><br>
-- <b>評論者等級<b><br>
-- <b>留言時間<b><br>
-- <b>留言日期<b><br>
-- <b>評論<b><br>
-- <b>評論分數<b><br>
+- <b>評論者：</b>評論者的google帳戶名稱<br>
+- <b>評論者id：</b>評論者的googleid<br>
+- <b>評論者狀態：</b>評論者的評論次數及狀態<br>
+- <b>評論者等級：</b>評論者的等級，詳情請看https://support.google.com/local-guides/answer/6225851?hl=zh-Hant<br>
+- <b>留言時間：</b>評論者的留言時間，依據抓取資料的時間來看<br>
+- <b>留言日期：</b>評論者的留言日期<br>
+- <b>評論：</b>評論內容<br>
+- <b>評論分數：</b>評論者給店家的分數<br>
